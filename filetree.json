@@ -12,6 +12,11 @@
           "url": "/yourLibrary/My first online folder-page"
         }
       ]
+    },
+    {
+      "name": "hello",
+      "type": "file",
+      "url": "/yourLibrary/hello"
     }
   ]
 }
