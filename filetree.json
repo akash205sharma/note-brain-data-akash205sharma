@@ -3,17 +3,6 @@
   "type": "folder",
   "children": [
     {
-      "name": "My first online folder",
-      "type": "folder",
-      "children": [
-        {
-          "name": "page",
-          "type": "file",
-          "url": "/yourLibrary/My first online folder-page"
-        }
-      ]
-    },
-    {
       "name": "hello",
       "type": "file",
       "url": "/yourLibrary/hello"
