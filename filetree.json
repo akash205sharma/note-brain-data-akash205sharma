@@ -6,6 +6,17 @@
       "name": "hello",
       "type": "file",
       "url": "/yourLibrary/hello"
+    },
+    {
+      "name": "OS",
+      "type": "folder",
+      "children": [
+        {
+          "name": "chapter 1",
+          "type": "file",
+          "url": "/yourLibrary/OS-chapter 1"
+        }
+      ]
     }
   ]
 }
