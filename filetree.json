@@ -17,6 +17,17 @@
           "url": "/yourLibrary/OS-chapter 1"
         }
       ]
+    },
+    {
+      "name": "fasdfa",
+      "type": "folder",
+      "children": [
+        {
+          "name": "afadsf",
+          "type": "file",
+          "url": "/yourLibrary/fasdfa-afadsf"
+        }
+      ]
     }
   ]
 }
