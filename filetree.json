@@ -3,31 +3,25 @@
   "type": "folder",
   "children": [
     {
-      "name": "hello",
+      "name": "Notes",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Chapter1",
+          "type": "file",
+          "url": "/yourLibrary/Notes-Chapter1"
+        }
+      ]
+    },
+    {
+      "name": "fgs",
       "type": "file",
-      "url": "/yourLibrary/hello"
+      "url": "/yourLibrary/fgs"
     },
     {
-      "name": "OS",
-      "type": "folder",
-      "children": [
-        {
-          "name": "chapter 1",
-          "type": "file",
-          "url": "/yourLibrary/OS-chapter 1"
-        }
-      ]
-    },
-    {
-      "name": "fasdfa",
-      "type": "folder",
-      "children": [
-        {
-          "name": "afadsf",
-          "type": "file",
-          "url": "/yourLibrary/fasdfa-afadsf"
-        }
-      ]
+      "name": "fgd",
+      "type": "file",
+      "url": "/yourLibrary/fgd"
     }
   ]
 }
