@@ -5,13 +5,7 @@
     {
       "name": "dir",
       "type": "folder",
-      "children": [
-        {
-          "name": ",",
-          "type": "file",
-          "url": "/yourLibrary/dir-,"
-        }
-      ]
+      "children": []
     },
     {
       "name": "physics",
