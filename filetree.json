@@ -12,6 +12,17 @@
           "url": "/yourLibrary/dir-,"
         }
       ]
+    },
+    {
+      "name": "physics",
+      "type": "folder",
+      "children": [
+        {
+          "name": "notes",
+          "type": "file",
+          "url": "/yourLibrary/physics-notes"
+        }
+      ]
     }
   ]
 }
