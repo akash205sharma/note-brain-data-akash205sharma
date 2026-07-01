@@ -3,24 +3,13 @@
   "type": "folder",
   "children": [
     {
-      "name": "OS",
+      "name": "dir",
       "type": "folder",
       "children": [
         {
-          "name": "description",
+          "name": ",",
           "type": "file",
-          "url": "/yourLibrary/OS-description"
-        }
-      ]
-    },
-    {
-      "name": "fasdfa",
-      "type": "folder",
-      "children": [
-        {
-          "name": "afadsf",
-          "type": "file",
-          "url": "/yourLibrary/fasdfa-afadsf"
+          "url": "/yourLibrary/dir-,"
         }
       ]
     }
